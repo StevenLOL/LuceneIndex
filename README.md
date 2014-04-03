@@ -39,7 +39,7 @@ To build indexes please execute buildindex.java one need to change the input JSO
 
 Original and analyzer processed query is print out. Time used to query system is recorded as well. Rank and matched key word are highlighted. A snippet as well as the full review is shown to user. 
 
-B) Testing  analyzers:
+B) Test analyzers:
 
 Eight anlyzers are included in the project. Please check eval_run_experiment.java for details. Testing results will be in *.csv file.
 
