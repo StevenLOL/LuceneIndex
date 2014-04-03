@@ -44,9 +44,8 @@ B) Test analyzers:
 Eight anlyzers are included in the project. Please check eval_run_experiment.java for details. Testing results will be in *.csv file.
 
 
-
-                                                                                                          STEVEN DU
-                                                                                                          TIAN XIAOHAI
-                                                                                                          YU YINING
+STEVEN DU
+TIAN XIAOHAI
+YU YINING
 
 
