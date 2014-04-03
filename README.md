@@ -41,7 +41,8 @@ Original and analyzer processed query is print out. Time used to query system is
 
 B) Testing  analyzers:
 
-Please check eval_run_experiment.java for details
+Eight anlyzers are included in the project. Please check eval_run_experiment.java for details. Testing results will be in *.csv file.
+
 
 
 
