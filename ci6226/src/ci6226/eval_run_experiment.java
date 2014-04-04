@@ -29,7 +29,7 @@ public class eval_run_experiment {
                 experimentSetup(lsIds,lsAnalyzers);
                 int topn=10;
                 for (int i=0;i<lsIds.size();i++){
-                //    eval_index_writer iw=new eval_index_writer(lsAnalyzers.get(i),reviewFileLocation,lsIds.get(i));
+                    eval_index_writer iw=new eval_index_writer(lsAnalyzers.get(i),reviewFileLocation,lsIds.get(i));
                     eval_index_reader ir= new eval_index_reader(lsAnalyzers.get(i),lsIds.get(i),lsTerms,topn);    
                     System.out.println(lsIds.get(i));
                 }
