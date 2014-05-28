@@ -46,6 +46,5 @@ Eight anlyzers are included in the project. Please check eval_run_experiment.jav
 
 STEVEN DU
 TIAN XIAOHAI
-YU YINING
 
 
